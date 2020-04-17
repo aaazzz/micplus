@@ -1,4 +1,16 @@
-# laughter-mic-vue
+# micplus
+
+## How to use
+1. Install BlackHole
+https://github.com/ExistentialAudio/BlackHole
+
+2. Install MicPlus
+https://github.com/aaazzz/micplus/releases
+
+3. Run MicPlus and set:
+  * Voice Input: Default
+  * Voice Output: BlackHole
+  * SE Output: BlackHole
 
 ## Project setup
 ```
